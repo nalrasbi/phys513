@@ -1,0 +1,1 @@
+15/15 - Note that in problem 1, there will be a Hall electric field that creates a force that opposes the v cross B force. So one needs to account for that in order to determine how the force is generated from collisions.
