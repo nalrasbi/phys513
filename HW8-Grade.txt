@@ -1,0 +1,2 @@
+
+20/20, but make sure that you can do 8.1 using complex exponentials. In 8.2 you seem to set div(E) = 0 b/c of "Gauss's Law". The correct statement is "div(E) = 0 b/c assuming in region of space with no charge".
