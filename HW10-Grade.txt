@@ -1,0 +1,3 @@
+10/10
+
+Good to see you noticed the simplification in part 2. Note that you can avoid writing out full equations by writing Z_i in terms of previously defined variables, which I suppose you realized after seeing question 3.
